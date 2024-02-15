@@ -1,0 +1,1 @@
+g++ exercise4.cpp save_data.c -o Ex4 -lm

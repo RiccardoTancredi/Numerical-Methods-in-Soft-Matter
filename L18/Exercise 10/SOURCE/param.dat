@@ -1,0 +1,15 @@
+N = 200
+N_steps = 10000
+box_x = 10
+box_y = 10
+box_z = 10
+temperature = 1
+sigma = 1
+sigma_cut = 1
+velocity_file = velocity.dat
+ratio_samplings = 1
+start_file = data.dat
+eps = 1
+thermostat = 0
+myseed = 14012024
+iteration = 1

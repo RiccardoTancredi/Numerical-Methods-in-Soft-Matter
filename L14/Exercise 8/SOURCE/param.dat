@@ -1,0 +1,13 @@
+N = 100
+N_steps = 10000
+box_x = 5
+box_y = 5
+box_z = 5
+temperature = 1
+sigma = 1
+delta_x = 0.05
+ratio_samplings = 100
+start_file = data.dat
+kind = random
+myseed = 02012024
+iteration = 1

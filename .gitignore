@@ -1,0 +1,42 @@
+
+*.json
+*.aux
+*.log
+*.gz
+*.out
+*.tex
+*.pdf
+*.R
+
+L01/*
+L02/*
+L08/Exercise 5/finite_size_scaling/res/100_magnetization.txt
+L08/Exercise 5/finite_size_scaling/res/80_magnetization.txt
+L08/Exercise 5/finite_size_scaling/res/150_magnetization.txt
+L08/Exercise 5/finite_size_scaling/res/200_magnetization.txt
+frontespizio/*
+L10/Exercise 6/res/*.txt
+L10/Exercise 6/step_by_step/*.txt
+L10/Exercise 6/res_autocorrelation/*.txt
+L10/Exercise 6/step
+L10/Exercise 6/step_by_step.cpp
+L10/Exercise 6/test_tanc.cpp
+L10/Exercise 6/find_T_c/*
+L10/Exercise 6/find_T_c.py
+L10/Exercise 6/res_autocorrelation/old/*
+L10/Exercise 6/res_autocorrelation/prova/*
+L10/Exercise 6/res_autocorrelation/prova3.5/*
+L14/Exercise 8/SOURCE/res/**
+L14/Exercise 8/SOURCE/data.dat
+Submitted-exercises-NMSM-23-24.xlsx
+L18/Exercise 10/SOURCE/data.dat
+L18/Exercise 10/SOURCE/res/**
+L20/Exercise 11/SOURCE/data.dat
+L20/Exercise 11/SOURCE/res/**
+L20/Exercise 11/SOURCE/VACF/*.dat
+L20/Exercise 11/SOURCE/corr_time/*.dat
+L24/Exercise 13/C-sim/*/*.dat
+L24/Exercise 13/sort_colors.py
+L24/Exercise 13/C-sim/sim-gauss-2_prof.c
+L10/Exercise 6/create_gif.py
+!NMSM_RT.pdf
